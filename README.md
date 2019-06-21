@@ -1,4 +1,4 @@
-# Partial Tetris game
+# Partial Tetris Game
 Assignment as part of operating systems course. I was asked to implement it by using pipes, signals, and alarms.
 
 ## Files
